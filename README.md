@@ -41,6 +41,8 @@ Climate data used in this workflow is available from WorldClim:
 
 https://www.worldclim.org/
 
+Climate raster data are not redistributed in this repository. Users should obtain the original data directly from WorldClim and comply with its terms of use.
+
 7. ArcGIS Toolbox Setup
 
 The repository includes an ArcGIS Toolbox (.tbx) and the Python script used by the tool.
@@ -54,3 +56,4 @@ After downloading the files:
 5. Apply the changes and run the tool.
 
 Important: The toolbox may retain the original script path. If the tool cannot find the Python script, update the Script File path manually before running it.
+
