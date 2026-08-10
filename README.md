@@ -30,8 +30,11 @@ The tool automatically:
 
 text
 wc2.1_2.5m_tmax_2019-01.tif
+
 wc2.1_2.5m_tmin_2019-01.tif
+
 wc2.1_2.5m_prec_2019-01.tif
+
 
 6. Data Source
 
