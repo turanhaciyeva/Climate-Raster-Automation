@@ -28,7 +28,6 @@ The tool automatically:
 
 5. Example Input
 
-text
 wc2.1_2.5m_tmax_2019-01.tif
 
 wc2.1_2.5m_tmin_2019-01.tif
