@@ -40,3 +40,17 @@ wc2.1_2.5m_prec_2019-01.tif
 Climate data used in this workflow is available from WorldClim:
 
 https://www.worldclim.org/
+
+7. ArcGIS Toolbox Setup
+
+The repository includes an ArcGIS Toolbox (.tbx) and the Python script used by the tool.
+
+After downloading the files:
+
+1. Add the .tbx toolbox to ArcGIS Desktop.
+2. Open the properties of the Script Tool.
+3. Go to the Source section.
+4. Set the Script File path to the downloaded Tiff_reader.py file on your computer.
+5. Apply the changes and run the tool.
+
+Important: The toolbox may retain the original script path. If the tool cannot find the Python script, update the Script File path manually before running it.
