@@ -1,6 +1,6 @@
 1. Climate Raster Automation Tool
 
-A Python/ArcPy tool for automating district-level analysis of monthly climate raster datasets in ArcGIS.
+A Python/ArcPy tool for automating district-level analysis of WorldClim monthly climate raster data in ArcGIS.
 
 2. Overview
 
